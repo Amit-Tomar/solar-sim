@@ -89,7 +89,7 @@ class Sun
 
 		// If sun has set or sunrise has not occured yet, close the light source
 		if( date > sunsetEnd || date < sunriseStart ) {
-			this.sunLight.intensity = .1
+			this.sunLight.intensity = 0
 		}
 		else {
 			this.sunLight.intensity = 1
