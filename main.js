@@ -6,8 +6,6 @@ import Sun from './sun';
 import Home from './home';
 import Renderer from './renderer';
 
-import 'flatpickr/dist/flatpickr.css';
-import 'flatpickr/dist/themes/dark.css';
 import './style.css'
 
 const scene = new Scene();

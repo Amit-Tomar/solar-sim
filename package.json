@@ -14,7 +14,6 @@
     "vite": "^4.3.9"
   },
   "dependencies": {
-    "flatpickr": "^4.6.13",
     "gsap": "^3.12.1",
     "lil-gui": "^0.18.2",
     "suncalc3": "^2.0.5",
